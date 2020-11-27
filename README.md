@@ -30,7 +30,7 @@ the name of the event associated with the list.
 • Quit program.
 
 # How to build Files from the source code
-- Install Visual Studio 2019 & UWP Development Kit.
+- Install Visual Studio 2019
 - Clone the source and open the Files.sln in VS.
 - VS installs all missing dependencies for you.
 - Launch the package project
